@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\26029198\\Documents\\GitHub\\Logica_Programacao_C_Sharp\\Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD57F885-8033-4EAD-B0CE-792487FEA7D5}|Forms.csproj|c:\\users\\26029198\\documents\\github\\logica_programacao_c_sharp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD57F885-8033-4EAD-B0CE-792487FEA7D5}|Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD57F885-8033-4EAD-B0CE-792487FEA7D5}|Forms.csproj|c:\\users\\26029198\\documents\\github\\logica_programacao_c_sharp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD57F885-8033-4EAD-B0CE-792487FEA7D5}|Forms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\26029198\\Documents\\GitHub\\Logica_Programacao_C_Sharp\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\26029198\\Documents\\GitHub\\Logica_Programacao_C_Sharp\\Forms\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:41:36.068Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\26029198\\Documents\\GitHub\\Logica_Programacao_C_Sharp\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\26029198\\Documents\\GitHub\\Logica_Programacao_C_Sharp\\Forms\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:40:47.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
